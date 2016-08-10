@@ -1,0 +1,23 @@
+{
+  "name": "Edit.scss",
+  "description": "scss editor of desktop",
+  "main": "main.js",
+  "authors": [
+    "guo tao <guo@tranway.cn>"
+  ],
+  "license": "Apache",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "codemirror": "^5.16.0",
+    "materialize": "^0.97.7",
+    "material-design-icons": "^2.2.3"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "EDIT-SCSS",
+  "version": "0.0.1",
+  "description": "scss editor of desktop",
+  "author": "Guo.Tao<ggggttt23@163.com>",
+  "main": "app/html/index.html",
+  "license": "Apache",
+  "window": {
+    "width": 1280,
+    "height": 1024
+  },
+  "dependencies": {
+    "chokidar": "^1.6.0",
+    "node-sass": "^3.8.0"
+  }
+}
